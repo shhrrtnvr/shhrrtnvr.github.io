@@ -33,8 +33,7 @@
 
 - Email: [shhrrtnvr@gmail.com](mailto:shhrrtnvr@gmail.com)  
 - GitHub: [shhrrtnvr](https://github.com/shhrrtnvr)  
-- LinkedIn: [Ahmed Shahriar Tanvir](https://www.linkedin.com/in/shahriartanvir/)  
-- Website: [Shipday](https://www.shipday.com/)
+- LinkedIn: [Ahmed Shahriar Tanvir](https://www.linkedin.com/in/shahriartanvir/)
 ___
 
 ## Contribution Activity
