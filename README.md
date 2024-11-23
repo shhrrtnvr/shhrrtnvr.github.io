@@ -31,9 +31,9 @@
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science and Engineering**  
+- **B.Sc. in Computer Science and Engineering**  | **CGPA: 3.73 / 4.0**
   University of Liberal Arts Bangladesh, Dhaka, Bangladesh  
-  - Minor in Electrical and Electronics Engineering | **CGPA: 3.73 / 4.0**
+  - Minor in Electrical and Electronics Engineering
   - **Dean’s List Scholarship** for outstanding academic performance.
 
 - **B.Sc. in Mechanical Engineering**  
